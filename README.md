@@ -1,6 +1,4 @@
-### Hello <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-
-[![Visits Badge](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)
+### Hello <img src="/assets/Hello.gif" width="22px">, I'm [Laxman](https://laxman-lakhan.github.io)
 
 Here are some ideas to get you started:
 
@@ -12,3 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+Thanks for visiting my Github profile!  
+[![Visits Badge](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)
