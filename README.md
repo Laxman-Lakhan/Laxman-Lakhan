@@ -1,6 +1,8 @@
 ### Hello <img src="/assets/Hello.gif" width="22px">, I'm [Laxman](https://laxman-lakhan.github.io)
 
-Here are some ideas to get you started:
+I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi** and _Online_ **B.Sc**_(Data Science and Programming)_ student at **IIT Madras**. I am a fan of solving problems and data driven decisions. Figuring out the better way of doing things keeps me going, and to fullfil this I am learinng Data Science.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
