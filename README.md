@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-**Laxman-Lakhan/Laxman-Lakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)
 
 Here are some ideas to get you started:
 
