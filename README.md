@@ -2,18 +2,25 @@
 
 I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi** and _Online_ **B.Sc**_(Data Science and Programming)_ student at **IIT Madras**. I am a fan of solving problems and data driven decisions. Figuring out the better way of doing things keeps me going, and to fullfil this I am learinng Data Science.
 
-### ⚡️ A Few Quick Facts
+### A Few Quick Facts ⚡️
 
-- 🔭 I’m currently working on ...
-- 🧐 Learning about Mathematics behind the ML Algorithms and Finance.
+- 🧐 Currently Learning about ML and Finance.
 - 👯 I’m looking to collaborate on Data Analysis projects related to Finance.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about [Chess](https://lichess.org/@/YourKingIsInDanger), Bikes, Marvel Universe and Microsoft Excel.
-- ⚡️ Fun fact: I have great observing skills, not like sherlock holmes but "You see, but you do not observe."
+- 💬 Ask me about [Chess](https://lichess.org/@/YourKingIsInDanger), Bikes and Marvel Universe.
+- ⚡️ Fun fact: I have great observing skills, not like sherlock holmes but "You see, and I observe."
 
-🧐⚡
-⚡️
+### Let's Connect?
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/laxman-lakhan/)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/laxmansingh.shesha/)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/laxman.lakhan/)  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/laxman__lakhan)  &nbsp;
+<a href="mailto:laxmansingh.lakhan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-Thanks for visiting my Github profile!  
+Thanks for visiting my Github profile!
 [![Visits Badge](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)
+
+
+
+
+
