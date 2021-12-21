@@ -18,8 +18,7 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/laxman__lakhan)  &nbsp;
 
 
-Thanks for visiting my Github profile!\
-[![Visits Badge](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)](https://badges.pufler.dev/visits/Laxman-Lakhan/Laxman-Lakhan)
+Thanks for visiting my Github profile!
 
 
 
