@@ -1,3 +1,4 @@
+
 ### Hello <img src="/assets/Hello.gif" width="22px">, I'm [Laxman](https://laxman-lakhan.github.io)
 
 I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I am a fan of solving problems and data driven decisions. Figuring out the better way of doing things keeps me going, and to fullfil this I am learinng Data Science.
@@ -18,10 +19,6 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/laxman__lakhan)  &nbsp;
 
   
-  
-### Some Tools I Use 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
   
 Thanks for visiting my Github profile!
 
