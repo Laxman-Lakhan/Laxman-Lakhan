@@ -6,7 +6,7 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
 ### A Few Quick Facts ⚡️
 
 - 🧐 Currently Learning about ML and Finance.
-- 👯 I’m looking to collaborate on Data Analysis projects related to Finance.
+- 👯 I’m looking to collaborate on Data Analysis projects related to Finance/Chess.
 - 💬 Ask me about [Chess](https://lichess.org/@/YourKingIsInDanger), Bikes and Marvel Universe.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes but "You see, and I observe."
 
