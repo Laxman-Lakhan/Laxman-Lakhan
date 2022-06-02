@@ -42,7 +42,8 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
  1658.44  ┤                                     ╰╮╭╯ ╰╯╰╯
  1651.00  ┤                                      ╰╯
 
-Chart last updated - Fri Jun  3 00:55:29 IST 2022  
+Chart last updated - Fri Jun  3 01:02:47 IST 2022  
   ```
   
   
+Thanks for visiting my Github profile!
