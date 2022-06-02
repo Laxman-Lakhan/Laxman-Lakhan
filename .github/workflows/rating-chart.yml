@@ -25,9 +25,8 @@
          name: Install dependencies
        - run: pip install -r .github/requirements.txt
          name: Create Chart
-         env:
-             TOKEN = ${{ secrets.TOKEN_LICHESS }}
        - run: |
+           TOKEN = ${{ secrets.TOKEN_LICHESS }}
            python codes/rating_chart.py > chart.txt
            CHART=$(cat chart.txt)
            echo "::set-output name=chart::$CHART"
