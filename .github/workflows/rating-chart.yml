@@ -24,9 +24,10 @@
            python-version: 3.7
          name: Install dependencies
        - run: pip install -r .github/requirements.txt
+         name: Test env vars for python
+       - run: TEST_SECRET=${{ secrets.TOKEN_LICHESS }} python -c 'import os;print(os.environ['TEST_SECRET'])
          name: Create Chart
        - run: |
-           TOKEN = ${{ secrets.TOKEN_LICHESS }}
            python codes/rating_chart.py > chart.txt
            CHART=$(cat chart.txt)
            echo "::set-output name=chart::$CHART"
