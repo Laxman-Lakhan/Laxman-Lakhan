@@ -10,7 +10,7 @@ import asciichartpy as ac
 
 
 def data_extractor():
-    token = os.environ.get('TOKEN')
+    token = secrets.TOKEN_LICHESS
     session = berserk.TokenSession(token)
     client = berserk.Client(session=session)
     extract = client.games.export_by_player('YourKingIsInDanger',as_pgn=False, since=None, until=None, 
