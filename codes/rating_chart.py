@@ -3,10 +3,7 @@ import pandas as pd
 import numpy as np
 import berserk
 import os
-import schedule
 import math
-import json
-import requests
 import pytz
 import time
 import asciichartpy as ac
