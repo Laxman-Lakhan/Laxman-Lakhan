@@ -25,7 +25,7 @@
          name: Install dependencies
        - run: pip install -r .github/requirements.txt
          name: Test env vars for python
-       - run: TEST_SECRET=${{ secrets.TOKEN_LICHESS }} python -c 'import os;print(os.environ['TEST_SECRET'])
+       - run: TEST_SECRET=${{ secrets.TOKEN_LICHESS }} python -c import os;print(os.environ['TEST_SECRET'])
          name: Create Chart
        - run: |
            python codes/rating_chart.py > chart.txt
