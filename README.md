@@ -13,7 +13,7 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
 
 <a href="mailto:laxmansingh.lakhan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/laxman-lakhan/)  &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/laxmansingh.shesha/)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/s.laxmanlakhan/)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/laxman.lakhan/)  &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/laxman__lakhan)  &nbsp;
 
@@ -42,7 +42,7 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
  1658.44  ┤                                     ╰╮╭╯ ╰╯╰╯
  1651.00  ┤                                      ╰╯
 
-Chart last updated - Fri Jun  3 01:41:11 IST 2022  
+Chart last updated - Fri Jun  3 01:45:03 IST 2022  
   ```
   
   
