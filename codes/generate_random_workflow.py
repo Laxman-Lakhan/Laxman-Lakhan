@@ -9,7 +9,7 @@ with open(".github/workflows/rating-chart.yml", "r") as f:
 randNo = random.randint(1, 2)
 newCron = cron_line.format(prevNo=randNo)
 
-for prevNum in range (1, 9):
+for prevNum in range (1, 3):
   prevCron = cron_line.format(prevNo=prevNum)
   if wf.find(prevCron) != -1:
     wf = wf.replace(prevCron, newCron)
