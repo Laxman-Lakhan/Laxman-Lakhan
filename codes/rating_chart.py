@@ -10,7 +10,7 @@ import asciichartpy as ac
 
 
 def data_extractor():
-    token = secrets.TOKEN_LICHESS
+    token = GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
     session = berserk.TokenSession(token)
     client = berserk.Client(session=session)
     extract = client.games.export_by_player('YourKingIsInDanger',as_pgn=False, since=None, until=None, 
