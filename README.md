@@ -1,6 +1,6 @@
   ### Hello, I'm [Laxman](https://laxman-lakhan.github.io)
 
-I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I am a fan of solving problems and data driven decisions. Figuring out the better way of doing things keeps me going, and to fullfil this I am learinng Data Science.
+I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I am a fan of solving problems and taking data driven decisions. Figuring out the better way of doing things keeps me going; and to these with precision, I am learinng Data Science.
 
 ### A Few Quick Facts ⚡️
 
@@ -42,7 +42,7 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
  1658.44  ┤                                     ╰╮╭╯ ╰╯╰╯
  1651.00  ┤                                      ╰╯
 
-Chart last updated - Fri Jun  3 01:45:03 IST 2022  
+Chart last updated - Fri Jun  3 01:51:25 IST 2022  
   ```
   
   
