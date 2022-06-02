@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[80]:
-
-
 import datetime
 import pandas as pd
 import numpy as np
@@ -16,7 +10,6 @@ import requests
 import pytz
 import time
 import asciichartpy as ac
-
 
 token = os.environ.get('TOKEN')
 session = berserk.TokenSession(token)
@@ -93,4 +86,3 @@ def main():
 if __name__ == "__main__":
     plot = main()
     print (plot)
-
