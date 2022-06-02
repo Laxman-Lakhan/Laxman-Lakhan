@@ -8,6 +8,7 @@ import pytz
 import time
 import asciichartpy as ac
 
+
 def data_extractor():
     token = os.environ.get('TOKEN')
     session = berserk.TokenSession(token)
