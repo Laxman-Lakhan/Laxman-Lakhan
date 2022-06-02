@@ -6,7 +6,7 @@ cron_line = '"0 */{prevNo} * * *"'
 with open(".github/workflows/rating-chart.yml", "r") as f:
   wf = f.read()
   
-randNo = random.randint(1, 8)
+randNo = 1
 newCron = cron_line.format(prevNo=randNo)
 
 for prevNum in range (1, 9):
