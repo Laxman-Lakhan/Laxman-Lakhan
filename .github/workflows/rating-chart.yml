@@ -25,10 +25,8 @@
          name: Install dependencies
        - run: pip install -r .github/requirements.txt
          name: Test env vars for python
-       - run: TEST_SECRET=${{ secrets.TOKEN_LICHESS }} python -c import os
-         name: Create Chart
        - run: |
-           python codes/rating_chart.py > chart.txt
+           TOKEN=${{ secrets.TOKEN_LICHESS }} python codes/rating_chart.py > chart.txt
            CHART=$(cat chart.txt)
            echo "::set-output name=chart::$CHART"
        - run: cat assets/README-1.md > README.md
