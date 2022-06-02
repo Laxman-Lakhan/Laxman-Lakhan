@@ -21,6 +21,6 @@ I am a **B.Tech**_(Chemical Engineering)_ student at **IIT (BHU), Varanasi**. I 
   ##### I am currently aiming to reach ELO 1800 blitz on Lichess.com ⚡. Here is an ascii tracker of my 100 previous Lichess.com blitz games.
 
   ```
-  # ♟︎ Chess.com Ratings Chart #
+  # ♟︎ Lichess.com Ratings Chart #
   
   Blitz Rating
