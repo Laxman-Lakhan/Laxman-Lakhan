@@ -6,8 +6,9 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 
 ### A Few Quick Facts ⚡️
 
-- 🧐 Currently Learning about ML and Finance.
-- 👯 I’m looking to collaborate on Data Analysis projects related to Finance/Chess.
+
+- 📖 Currently Learning about Data Visualisation (Tableau) and Machine Learning.
+- 🤝 I’m looking to collaborate on Data Analysis projects related to Finance/Chess.
 - 💬 Ask me about [Chess](https://lichess.org/@/YourKingIsInDanger), Bikes, and Marvel Universe.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but "You see, and I observe."
 
