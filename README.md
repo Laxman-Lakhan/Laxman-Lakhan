@@ -6,8 +6,9 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 
 ### A Few Quick Facts ⚡️
 
-- 🧐 Currently Learning about ML and Finance.
-- 👯 I’m looking to collaborate on Data Analysis projects related to Finance/Chess.
+
+- 📖 Currently Learning about Data Visualisation (Tableau) and Machine Learning.
+- 🤝 I’m looking to collaborate on Data Analysis projects related to Finance/Chess.
 - 💬 Ask me about [Chess](https://lichess.org/@/YourKingIsInDanger), Bikes, and Marvel Universe.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but "You see, and I observe."
 
@@ -47,7 +48,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess.com ⚡. Here is an asc
  1657.12  ┤                 ╰╯                                                                             ╰╯╰
  1651.00  ┤
 
-Chart last updated - Tue Jun 14 19:42:39 IST 2022  
+Chart last updated - Tue Jun 14 20:15:41 IST 2022  
   ```
   
   
