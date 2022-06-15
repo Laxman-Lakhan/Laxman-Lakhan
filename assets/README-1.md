@@ -1,4 +1,4 @@
-  ### Hello, I'm Laxman
+  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/assets/Hello%20Banner.png">
 
 I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science. 
 
