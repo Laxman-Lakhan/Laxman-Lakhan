@@ -2,4 +2,4 @@
   ```
   
   
-Thanks for visiting my Github profile!
+*Thanks for visiting my Github profile!*
