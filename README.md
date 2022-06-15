@@ -15,6 +15,16 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but `"You see, and I observe"`.
 
 ---
+### Tools & Technology 🖥
+- Python
+- Tableau
+- MySQL
+- Google Analytics
+- Advance Excel
+- Jupyter
+
+
+---
 
 ### Let's Connect? 🫳🏻
 
@@ -52,7 +62,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess.com. Here is an ascii t
  1657.12  ┤                 ╰╯                                                                             ╰╯╰
  1651.00  ┤
 
-Chart last updated - Thu Jun 16 03:03:51 IST 2022  
+Chart last updated - Thu Jun 16 03:16:38 IST 2022  
   ```
   
   
