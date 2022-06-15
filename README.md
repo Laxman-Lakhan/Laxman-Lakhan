@@ -25,7 +25,8 @@ I am a fan of solving problems and making data-driven decisions. Figuring out a 
 
  ---
   
-I am currently aiming to reach ELO 1800 blitz on Lichess.com ⚡. Here is an ascii tracker of my 100 previous Lichess.com blitz games.
+• I am currently aiming to reach ELO 1800 blitz⚡ on Lichess.com.\
+• Here is an ascii tracker of my 100 previous Lichess.com blitz games.
 
   ```
   # ♟︎ Lichess.com Ratings Chart #
@@ -49,7 +50,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess.com ⚡. Here is an asc
  1657.12  ┤                 ╰╯                                                                             ╰╯╰
  1651.00  ┤
 
-Chart last updated - Thu Jun 16 02:25:36 IST 2022  
+Chart last updated - Thu Jun 16 02:29:13 IST 2022  
   ```
   
   
