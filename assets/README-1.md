@@ -15,6 +15,16 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but `"You see, and I observe"`.
 
 ---
+### Tools & Technology 🖥
+- Python
+- Tableau
+- MySQL
+- Google Analytics
+- Advance Excel
+- Jupyter
+
+
+---
 
 ### Let's Connect? 🫳🏻
 
