@@ -1,6 +1,6 @@
   <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/assets/Hello%20Banner.png">
 
-### About Me
+### About Me 🤓
 
 I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science. 
 
@@ -16,7 +16,7 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 
 ---
 
-### Let's Connect?
+### Let's Connect? 🫳🏻
 
 <a href="mailto:laxmansingh.lakhan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/laxman-lakhan/)  &nbsp;
@@ -25,6 +25,8 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/laxman__lakhan)  &nbsp;
 
  ---
+  
+### My Chess Rating ♟
   
 • I am currently aiming to reach ELO 1800 blitz⚡ on Lichess.com.\
 • Here is an ascii tracker of my 100 previous Lichess.com blitz games.
