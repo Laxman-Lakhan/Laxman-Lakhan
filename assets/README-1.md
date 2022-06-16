@@ -26,7 +26,6 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 <img src="https://img.shields.io/badge/pandas-white?logo=Pandas&logoColor=000080&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/numpy-white?logo=Numpy&logoColor=85C1E9&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/scikit learn-white?logo=Scikit+Learn&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
-<img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
 
 
 
