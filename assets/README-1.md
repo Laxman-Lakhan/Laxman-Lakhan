@@ -1,4 +1,4 @@
-  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/assets/Hello%20Banner.png">
+  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/assets/Images/Hello%20Banner.png">
 
 ### About Me 🤓
 
@@ -16,12 +16,18 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 
 ---
 ### Tools & Technology 🖥
-- Python
-- Tableau
-- MySQL
-- Google Analytics
-- Advance Excel
-- Jupyter
+
+<img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/Advance Excel-white?logo=Microsoft+Excel&logoColor=196F3D&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/Google Analytics-white?logo=Google+Analytics&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/pandas-white?logo=Pandas&logoColor=000080&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/numpy-white?logo=Numpy&logoColor=85C1E9&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/scikit learn-white?logo=Scikit+Learn&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+
 
 
 ---
