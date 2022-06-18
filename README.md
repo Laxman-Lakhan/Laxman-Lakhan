@@ -67,7 +67,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess.com. Here is an ascii t
  1657.12  ┤                 ╰╯                                                                             ╰╯╰
  1651.00  ┤
 
-Chart last updated - Sat Jun 18 23:57:21 IST 2022  
+Chart last updated - Sun Jun 19 01:46:23 IST 2022  
   ```
   
   
