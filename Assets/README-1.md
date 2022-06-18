@@ -2,15 +2,14 @@
 
 ### About Me 🤓
 
-I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science. 
+I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science.
 
 ---
 
 ### A Few Quick Facts ⚡️
 
-
+- 🤝 I’m looking for `Full-Time Opportunities` in `Data Analyst` role.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
-- 🤝 I’m looking to collaborate on `Data Analysis projects` related to `Finance/Chess`.
 - 💬 Ask me about [`Chess`](https://lichess.org/@/YourKingIsInDanger), `Bikes`, and `Marvel Universe`.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but `"You see, and I observe"`.
 
