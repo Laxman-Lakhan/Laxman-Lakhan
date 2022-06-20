@@ -7,7 +7,7 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 ---
 
 ### A Few Quick Facts ⚡️
-<img align="right" alt="Coding" width="360" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Data_Vector.jpg">   
+<img align="right" alt="Coding" width="340" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Data_Vector.jpg">   
 
 - 🤝 I’m looking for `Full-Time Opportunities` in `Data Analyst` role.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
@@ -67,7 +67,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess.com. Here is an ascii t
  1648.50  ┤              ╰╯                                                                               ╰─╮╭
  1643.00  ┤                                                                                                 ╰╯
 
-Chart last updated - Tue Jun 21 03:17:45 IST 2022  
+Chart last updated - Tue Jun 21 03:21:05 IST 2022  
   ```
   
   
