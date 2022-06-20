@@ -7,6 +7,7 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
 ---
 
 ### A Few Quick Facts ⚡️
+<img align="right" alt="Coding" height = "200" width="200" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Data_vector.jpg">   
 
 - 🤝 I’m looking for `Full-Time Opportunities` in `Data Analyst` role.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
