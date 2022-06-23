@@ -1,4 +1,4 @@
-  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Hello.png">
+  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Header.gif">
 
 ### About Me 🤓
 
@@ -67,7 +67,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess.com. Here is an ascii t
  1648.38  ┤                                                                                               ╰─╯
  1643.00  ┤
 
-Chart last updated - Fri Jun 24 03:33:45 IST 2022  
+Chart last updated - Fri Jun 24 03:38:15 IST 2022  
   ```
   
   
