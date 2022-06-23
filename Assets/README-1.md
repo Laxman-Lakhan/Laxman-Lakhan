@@ -1,4 +1,4 @@
-  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Hello.png">
+  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Header.gif">
 
 ### About Me 🤓
 
