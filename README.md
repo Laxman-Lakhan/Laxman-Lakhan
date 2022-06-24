@@ -48,7 +48,6 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
   ```
   ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 𝙱𝚕𝚒𝚝𝚣 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝
   
-  
  1729.00  ┤                                            ╭╮
  1723.62  ┤                                         ╭╮╭╯╰──╮╭╮     ╭╮  ╭╮
  1718.25  ┤                                      ╭──╯╰╯    │││     │╰╮╭╯╰╮
@@ -67,7 +66,7 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
  1648.38  ┤                                                                                              ╰─╯
  1643.00  ┤
 
-Chart last updated - Fri Jun 24 17:51:52 IST 2022  
+Chart last updated - Fri Jun 24 18:25:31 IST 2022  
   ```
   
   
