@@ -43,12 +43,10 @@ I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varan
   
 ### My Chess Rating ♟
   
-I am currently aiming to reach ELO 1800 blitz on Lichess. Here is an ascii tracker of my previous 100 Lichess.com blitz games.
+I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an ascii tracker of my previous **100 Lichess Blitz Games**.
 
   ```
-  # ♟︎ Lichess.com Ratings Chart #
-  
-  Blitz Rating
+  # ♟︎ Lichess Blitz Ratings Chart #
  1729.00  ┤                                            ╭╮
  1723.62  ┤                                         ╭╮╭╯╰──╮╭╮     ╭╮  ╭╮
  1718.25  ┤                                      ╭──╯╰╯    │││     │╰╮╭╯╰╮
@@ -67,7 +65,7 @@ I am currently aiming to reach ELO 1800 blitz on Lichess. Here is an ascii track
  1648.38  ┤                                                                                              ╰─╯
  1643.00  ┤
 
-Chart last updated - Fri Jun 24 17:44:40 IST 2022  
+Chart last updated - Fri Jun 24 17:46:58 IST 2022  
   ```
   
   
