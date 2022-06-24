@@ -48,4 +48,3 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
   ```
   ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 𝙱𝚕𝚒𝚝𝚣 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝
   
-  
