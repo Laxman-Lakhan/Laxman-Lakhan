@@ -66,7 +66,7 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
  1648.38  ┤                                                                                              ╰─╯
  1643.00  ┤
 
-Chart last updated - Sat Jun 25 11:55:27 IST 2022  
+Chart last updated - Sat Jun 25 13:34:24 IST 2022  
   ```
   
   
