@@ -83,5 +83,5 @@ def main():
 if __name__ == "__main__":
     plot = main()
     print (plot, '\n')
-    print('Avg. Rating:     {}'.format(round(np.mean(rl))))
-    print('Cuurrent Rating: {}'.format(rl[-1]))
+    print('Average Rating: {}'.format(round(np.mean(rl))))
+    print('Current Rating: {}'.format(rl[-1]))
