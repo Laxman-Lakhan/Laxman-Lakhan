@@ -77,11 +77,11 @@ def data_formation(main_dict):
 def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df[Chess_df['Game Type'] == 'Blitz']['New Rating'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15}))
+    return (ac.plot(ratings_list, {'height': 15})), ratings_list
 
 
 if __name__ == "__main__":
-    plot = main()
+    plot, rl = main()
     print (plot, '\n')
     print('Average Rating: {}'.format(round(np.mean(rl))))
     print('Current Rating: {}'.format(rl[-1]))
