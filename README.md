@@ -2,7 +2,7 @@
 
 ### About Me 🤓
 
-I am a **B.Tech**_(Chemical Engineering)_ graduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science.
+I am a **B.Tech**_(Chemical Engineering)_ undergraduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science.
 
 ---
 
@@ -69,7 +69,7 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
 Average Rating: 1685
 Current Rating: 1664
 
-Chart last updated - Sun Jul  3 17:46:26 IST 2022  
+Chart last updated - Sun Jul  3 19:30:20 IST 2022  
   ```
   
   
