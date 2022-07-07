@@ -20,8 +20,7 @@ I am a **B.Tech**_(Chemical Engineering)_ undergraduate(2022) from **IIT (BHU), 
 <img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
-<img src="https://img.shields.io/badge/Advance Excel-white?logo=Microsoft+Excel&logoColor=196F3D&style=ShieldStyle" /> &nbsp;
-<img src="https://img.shields.io/badge/Google Analytics-white?logo=Google+Analytics&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
+<img src="https://img.shields.io/badge/Excel-white?logo=Microsoft+Excel&logoColor=196F3D&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter&logoColor=ColorName&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/pandas-white?logo=Pandas&logoColor=000080&style=ShieldStyle" /> &nbsp;
 <img src="https://img.shields.io/badge/numpy-white?logo=Numpy&logoColor=85C1E9&style=ShieldStyle" /> &nbsp;
@@ -49,27 +48,27 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
   ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 𝙱𝚕𝚒𝚝𝚣 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝 𝚘𝚟𝚎𝚛 𝙻𝚊𝚜𝚝 𝟷00 𝙶𝚊𝚖𝚎𝚜.
   
 1729 ┤
-1723 ┤          ╭╮╭─╮╭─╮       ╭╮  ╭╮
-1718 ┤       ╭──╯╰╯ ╰╯ │╭╮     │╰╮╭╯╰╮
-1712 ┤      ╭╯         ╰╯╰─╮  ╭╯ ╰╯  ╰╮
-1707 ┤   ╭╮╭╯              ╰──╯       ╰╮ ╭╮ ╭╮                                                          ╭
-1701 ┤  ╭╯╰╯                           ╰─╯╰─╯╰╮                                                        ╭╯
-1696 ┤  │                                     ╰╮                                                  ╭╮  ╭╯
-1690 ┤╭─╯                                      ╰╮                                                ╭╯╰╮╭╯
-1684 ┤│                                         ╰─╮╭─╮                                          ╭╯  ╰╯
-1679 ┼╯                                           ╰╯ ╰──╮  ╭──╮                            ╭╮  ╭╯
-1673 ┤                                                  │╭─╯  ╰╮                           ││ ╭╯
-1668 ┤                                                  ╰╯     ╰╮                         ╭╯╰─╯
-1662 ┤                                                          ╰╮╭╮    ╭╮       ╭╮╭╮  ╭──╯
-1657 ┤                                                           ╰╯│   ╭╯╰╮      │╰╯╰╮╭╯
-1651 ┤                                                             ╰─╮╭╯  ╰╮╭╮  ╭╯   ╰╯
-1646 ┤                                                               ╰╯    ││╰╮╭╯
-1640 ┤                                                                     ╰╯ ╰╯ 
+1723 ┤       ╭╮╭─╮╭─╮       ╭╮  ╭╮
+1718 ┤    ╭──╯╰╯ ╰╯ │╭╮     │╰╮╭╯╰╮                                                                    ╭─
+1712 ┤   ╭╯         ╰╯╰─╮  ╭╯ ╰╯  ╰╮                                                                  ╭╯
+1707 ┤╭╮╭╯              ╰──╯       ╰╮ ╭╮ ╭╮                                                          ╭╯
+1701 ┼╯╰╯                           ╰─╯╰─╯╰╮                                                        ╭╯
+1696 ┤                                     ╰╮                                                  ╭╮  ╭╯
+1690 ┤                                      ╰╮                                                ╭╯╰╮╭╯
+1684 ┤                                       ╰─╮╭─╮                                          ╭╯  ╰╯
+1679 ┤                                         ╰╯ ╰──╮  ╭──╮                            ╭╮  ╭╯
+1673 ┤                                               │╭─╯  ╰╮                           ││ ╭╯
+1668 ┤                                               ╰╯     ╰╮                         ╭╯╰─╯
+1662 ┤                                                       ╰╮╭╮    ╭╮       ╭╮╭╮  ╭──╯
+1657 ┤                                                        ╰╯│   ╭╯╰╮      │╰╯╰╮╭╯
+1651 ┤                                                          ╰─╮╭╯  ╰╮╭╮  ╭╯   ╰╯
+1646 ┤                                                            ╰╯    ││╰╮╭╯
+1640 ┤                                                                  ╰╯ ╰╯ 
 
-Average Rating: 1687
-Current Rating: 1706
+Average Rating: 1688
+Current Rating: 1719
 
-Chart last updated - Fri Jul  8 01:52:15 IST 2022  
+Chart last updated - Fri Jul  8 03:22:46 IST 2022  
   ```
   
   
