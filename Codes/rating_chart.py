@@ -77,7 +77,7 @@ def data_formation(main_dict):
 def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df[Chess_df['Game Type'] == 'Blitz']['New Rating'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15})), ratings_list
+    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list
 
 
 if __name__ == "__main__":
