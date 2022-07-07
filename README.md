@@ -43,10 +43,10 @@ I am a **B.Tech**_(Chemical Engineering)_ undergraduate(2022) from **IIT (BHU), 
   
 ### My Chess Rating ♟
   
-I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an ascii tracker of my previous **100 Lichess Blitz Games**.
+I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an ascii tracker of my last **100 Lichess Blitz Games**.
 
   ```
-  ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 𝙱𝚕𝚒𝚝𝚣 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝 (𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜 𝟷00 𝙶𝚊𝚖𝚎𝚜)
+  ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 𝙱𝚕𝚒𝚝𝚣 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝 𝚘𝚟𝚎𝚛 𝙻𝚊𝚜𝚝 𝟷00 𝙶𝚊𝚖𝚎𝚜.
   
 1729 ┤
 1723 ┤           ╭╮╭─╮╭─╮       ╭╮  ╭╮
@@ -69,7 +69,7 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
 Average Rating: 1687
 Current Rating: 1701
 
-Chart last updated - Thu Jul  7 19:53:54 IST 2022  
+Chart last updated - Thu Jul  7 20:45:44 IST 2022  
   ```
   
   
