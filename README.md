@@ -68,7 +68,7 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
 Average Rating: 1690
 Current Rating: 1746
 
-Chart last updated - Sun Jul 10 23:58:02 IST 2022  
+Chart last updated - Mon Jul 11 01:53:38 IST 2022  
   ```
   
   
