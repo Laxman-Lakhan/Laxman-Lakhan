@@ -69,7 +69,7 @@ Maximum Rating: 1776
 Average Rating: 1701
 Current Rating: 1776
 
-Chart last updated - Sun Jul 17 21:42:42 IST 2022  
+Chart last updated - Sun Jul 17 22:41:07 IST 2022  
   ```
   
   
