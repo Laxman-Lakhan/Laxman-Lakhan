@@ -31,9 +31,6 @@
            echo "::set-output name=chart::$CHART"
        - run: cat Assets/README-1.md > README.md
        - run: cat chart.txt >> README.md
-       - run: |
-           currentDate=`env TZ=Asia/Kolkata date`
-           printf "\nChart last updated - ${currentDate}" >> README.md
        - run: cat Assets/README-2.md >> README.md
          name: Update workflow yaml file
        - run: |
