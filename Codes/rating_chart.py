@@ -83,5 +83,6 @@ def main():
 if __name__ == "__main__":
     plot, rl = main()
     print (plot, '\n')
+    print('Maximum Rating: {}'.format(max(rl)))
     print('Average Rating: {}'.format(round(np.mean(rl))))
     print('Current Rating: {}'.format(rl[-1]))
