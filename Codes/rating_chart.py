@@ -19,7 +19,7 @@ def data_extractor():
     return data
 
 def dict_formation(data):
-    main_dict = {'Date':[], 'Time': [], 'Game Type':[] ,'Time Control':[], 'No. of Moves': [],
+    main_dict = {'Played':[], 'Date':[], 'Time': [], 'Game Type':[] ,'Time Control':[], 'No. of Moves': [],
                'My Rating':[], 'Oponent Rating':[], 'Rating Fluctuation':[], 'My Color':[],
                'Opening':[],'Status':[], 'Winner':[]}
     data_length = len(data)
@@ -36,6 +36,7 @@ def dict_formation(data):
             main_dict['My Color'].insert(0,'Black')
         main_dict['Game Type'].insert(0,data[i]['perf'])
         main_dict['No. of Moves'].insert(0,math.ceil(len(data[i]['moves'].split(' '))/2))
+        main_dict['Played'].insert(0,data[i]['createdAt'].astimezone(pytz.timezone('Asia/Kolkata')))
         main_dict['Date'].insert(0,data[i]['createdAt'].astimezone(pytz.timezone('Asia/Kolkata')).date())
         main_dict['Time'].insert(0,data[i]['createdAt'].astimezone(pytz.timezone('Asia/Kolkata')).time())
         main_dict['Status'].insert(0,data[i]['status'])
@@ -77,12 +78,18 @@ def data_formation(main_dict):
 def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df[Chess_df['Game Type'] == 'Blitz']['New Rating'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list
+    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, \
+        list(Chess_df[Chess_df['Game Type'] == 'Blitz']['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
+
 
 
 if __name__ == "__main__":
-    plot, rl = main()
+    plot, rl, date = main()
     print (plot, '\n')
-    print('Maximum Rating: {}'.format(max(rl)))
-    print('Average Rating: {}'.format(round(np.mean(rl))))
-    print('Current Rating: {}'.format(rl[-1]))
+    print('Maximum Rating: {}'.format(max(rl)), end = '       ')
+    print('Average Rating: {}'.format(round(np.mean(rl))), end = '       ')
+    print('Current Rating: {}'.format(rl[-1]), '\n')
+    print('Last Game Played On: ',date)
+    
+    
+    
