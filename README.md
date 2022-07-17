@@ -65,7 +65,7 @@ I am currently aiming to reach **1800 Blitz ELO** on **Lichess**. Here is an asc
 1648 ┤                    ╰╯    ╰╯ ╰╯
 1640 ┤ 
 
-Maximum Rating: 1776                          Average Rating: 1701                          Current Rating: 1776 
+Maximum Rating: 1776                      Average Rating: 1701                      Current Rating: 1776 
 
 Last Game Played On:  Sun, 17-Jul-2022 08:20 PM IST
   
