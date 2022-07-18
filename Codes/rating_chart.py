@@ -91,5 +91,3 @@ if __name__ == "__main__":
     print('Current Rating: {}'.format(rl[-1]), '\n')
     print('Last Game Played On: ',date)
     
-    
-    
