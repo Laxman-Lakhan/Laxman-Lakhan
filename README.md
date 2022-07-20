@@ -69,7 +69,7 @@ Maximum Rating: 1805
 Average Rating: 1716
 Current Rating: 1802 
 
-Last Game Played On:  Tue, 19-Jul-2022 09:11 PM IST
+Last Game Played On: Tue, 19-Jul-2022 09:11 PM IST
   ```
   
   
