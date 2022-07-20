@@ -53,5 +53,5 @@ if __name__ == "__main__":
     print('Maximum Rating: {}'.format(max(rl)))
     print('Average Rating: {}'.format(round(np.mean(rl))))
     print('Current Rating: {}'.format(rl[-1]), '\n')
-    print('Last Game Played On: ',date)
+    print('Last Game Played On:',date)
     
