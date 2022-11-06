@@ -26,10 +26,16 @@ def dict_formation(data):
     for i in range(data_length):
         if data[i]['players']['white']['user']['id'] == 'yourkingisindanger':
             main_dict['My Rating'].insert(0,data[i]['players']['white']['rating'])
-            main_dict['Rating Fluctuation'].insert(0,data[i]['players']['white']['ratingDiff'])
+            try:
+                main_dict['Rating Fluctuation'].insert(0,data[i]['players']['white']['ratingDiff'])
+            except:
+                main_dict['Rating Fluctuation'].insert(0,0)
         else:
             main_dict['My Rating'].insert(0,data[i]['players']['black']['rating'])
-            main_dict['Rating Fluctuation'].insert(0,data[i]['players']['black']['ratingDiff'])
+            try:
+                main_dict['Rating Fluctuation'].insert(0,data[i]['players']['black']['ratingDiff'])
+            except:
+                main_dict['Rating Fluctuation'].insert(0,0)
         main_dict['Played'].insert(0,data[i]['lastMoveAt'].astimezone(pytz.timezone('Asia/Kolkata')))
     return main_dict
 
