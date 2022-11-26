@@ -1,9 +1,10 @@
 ### About Me 🤓
 
-I am a **B.Tech** _**(Chemical Engineering)**_ **Graduate(2022) from IIT (BHU), Varanasi**.
-I am a problem solver, figuring out the better way of doing things keeps me going. I am fascinated by the way one can make data-driven decision using Data Science. I am a Chess enthusiast and I am playing chess for over a decade. I came to know Data Analysis in curiosity of figuring out what will be the probability of me winning the (n+1)th game in chess if i have already won n games in a row. In finding the answer of this question I learn many python libraries (pandas, matplotlib, numpy, scikit-learn, etc.) and Data Analysis Techniques to extract, clean and analyze the data. I am now a Data Enthusiast. 
+I am a **B.Tech** _**(Chemical Engineering)**_ **Graduate(2022) from IIT (BHU), Varanasi**.I am a problem solver, figuring out the better way of doing things keeps me going. I am fascinated by the way one can make data-driven decision using Data Science. 
 
-You can find my Resume [here](https://drive.google.com/file/d/1UIOoogRLj5eGQFQBkuvMmTISZVdl2Ok7/view?usp=sharing).
+I am a Chess enthusiast and I am playing chess for over a decade. I came to know Data Analysis in curiosity of figuring out what will be the probability of me winning the (n+1)th game in chess if i have already won n games in a row. In finding the answer of this question I learn many python libraries (pandas, matplotlib, numpy, scikit-learn, etc.) and Data Analysis Techniques to extract, clean and analyze the data.
+
+I am now a Data Enthusiast and looking for Full-Time Opportunities as a Data Analyst Role. You can find my Resume [here](https://drive.google.com/file/d/1UIOoogRLj5eGQFQBkuvMmTISZVdl2Ok7/view?usp=sharing).
 
 
 ---
@@ -11,9 +12,9 @@ You can find my Resume [here](https://drive.google.com/file/d/1UIOoogRLj5eGQFQBk
 ### A Few Quick Facts ⚡️
 <img align="right" alt="Coding" width="340" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Data_Vector.jpg">   
 
-- 🤝 I’m looking for `Full-Time Opportunities` in `Data Analyst` role.
+- 🤝 I’m open for Collaboration in Data Analysis project related to `Chess or Finance`.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
-- 💬 Ask me about [`Chess`](https://lichess.org/@/YourKingIsInDanger), `Bikes`, and `Marvel Universe`.
+- 💬 Ask me about [`Chess`](https://lichess.org/@/YourKingIsInDanger), `Marvel Universe` and `Data Analysis`.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but `"You see, and I observe"`.
 
 ---
