@@ -1,9 +1,10 @@
-  <img src= "https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Header.gif">
-
 ### About Me 🤓
 
-I am a **B.Tech**_(Chemical Engineering)_ undergraduate(2022) from **IIT (BHU), Varanasi**. I am a fan of solving problems and making data-driven decisions. Figuring out a better way of doing things keeps me going; and to do these with precision, I am learning Data Science.
-[RESUME](https://drive.google.com/file/d/1UIOoogRLj5eGQFQBkuvMmTISZVdl2Ok7/view?usp=sharing)
+I am a **B.Tech** _**(Chemical Engineering)**_ **Graduate(2022) from IIT (BHU), Varanasi**.
+I am a problem solver, figuring out the better way of doing things keeps me going. I am fascinated by the way one can make data-driven decision using Data Science. I am a Chess enthusiast and I am playing chess for over a decade. I came to know Data Analysis in curiosity of figuring out what will be the probability of me winning the (n+1)th game in chess if i have already won n games in a row. In finding the answer of this question I learn many python libraries (pandas, matplotlib, numpy, scikit-learn, etc.) and Data Analysis Techniques to extract, clean and analyze the data. I am now a Data Enthusiast. 
+
+You can find my Resume [here](https://drive.google.com/file/d/1UIOoogRLj5eGQFQBkuvMmTISZVdl2Ok7/view?usp=sharing).
+
 
 ---
 
