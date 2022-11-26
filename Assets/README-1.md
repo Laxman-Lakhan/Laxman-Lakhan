@@ -12,7 +12,7 @@ I am now a Data Enthusiast and looking for Full-Time Opportunities as a Data Ana
 ### A Few Quick Facts ⚡️
 <img align="right" alt="Coding" width="340" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Data_Vector.jpg">   
 
-- 🤝 I’m open for Collaboration in Data Analysis project related to `Chess or Finance`.
+- 🤝 I’m open for Collaboration in `Data Analysis Project` related to `Chess or Finance`.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
 - 💬 Ask me about [`Chess`](https://lichess.org/@/YourKingIsInDanger), `Marvel Universe` and `Data Analysis`.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but `"You see, and I observe"`.
