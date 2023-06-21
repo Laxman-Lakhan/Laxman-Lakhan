@@ -51,8 +51,8 @@ def dict_formation(data):
 
 def data_formation(main_dict):
     url = 'https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/d72c599f65d5d4d91742b5ba0842e758094ec852/Codes/dP.csv?raw=true'
-    dp = pd.read_csv(url)
-    dp.drop(['Unnamed: 0'], axis = 1, inplace = True)
+    dP = pd.read_csv(url)
+    dP.drop(['Unnamed: 0'], axis = 1, inplace = True)
     Chess_df = pd.DataFrame.from_dict(main_dict, orient ='columns')
     Chess_df.reset_index(inplace = True)
     Chess_df['New Rating'] = Chess_df['My Rating'] + Chess_df['Rating Fluctuation']
