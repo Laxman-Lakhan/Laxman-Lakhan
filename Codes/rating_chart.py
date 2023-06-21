@@ -41,16 +41,32 @@ def dict_formation(data):
 
 
 def data_formation(main_dict):
+    dP = pd.read_excel('dP.xlsx')
     Chess_df = pd.DataFrame.from_dict(main_dict, orient ='columns')
+    Chess_df.reset_index(inplace = True)
     Chess_df['New Rating'] = Chess_df['My Rating'] + Chess_df['Rating Fluctuation']
+    Chess_df.loc[Chess_df['Winner'] == Chess_df['My Color'], 'Result'] = 1
+    Chess_df.loc[(Chess_df['Winner'] != Chess_df['My Color']) & (Chess_df['Winner'] != None), 'Result'] = 0
+    Chess_df.loc[Chess_df['Winner'].isna(), 'Result'] = 0.5
+    Chess_df.drop(['Winner', 'My Color'], axis = 1, inplace = True)
+    
+    k = 10
+    Chess_df['Ra'] = Chess_df['Opponent Rating'].rolling(k).mean()
+    Chess_df['p'] = round(Chess_df['Result'].rolling(k).sum()/k, 2)
+    Chess_df = Chess_df.merge(dP, on='p')
+    Chess_df['Performance'] = round(Chess_df['Ra'] + Chess_df['dp'], 0)
+    Chess_df.sort_values('index', inplace = True)
+    Chess_df.reset_index(inplace = True)
+    Chess_df.drop(columns = ['level_0', 'index', 'Ra', 'dp', 'p', 'Result', 'My Rating', 
+                       'Rating Fluctuation', 'Opponent Rating'], inplace = True)
     return Chess_df
     
     
 def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df['New Rating'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, \
-        list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
+    performance_list = list(Chess_df['Performance'])[::-1][0:100][::-1]
+    return (ac.plot([ratings_list, performance_list], {'height': 15, 'format':'{:4.0f}', 'colors':[ac.blue, ac.green]})), ratings_list, list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
 
 
 if __name__ == "__main__":
