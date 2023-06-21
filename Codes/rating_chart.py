@@ -41,7 +41,7 @@ def dict_formation(data):
 
 
 def data_formation(main_dict):
-    dP = pd.read_excel('Codes/dP.csv')
+    dP = pd.read_csv('Codes/dP.csv')
     Chess_df = pd.DataFrame.from_dict(main_dict, orient ='columns')
     Chess_df.reset_index(inplace = True)
     Chess_df['New Rating'] = Chess_df['My Rating'] + Chess_df['Rating Fluctuation']
