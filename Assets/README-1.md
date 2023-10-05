@@ -16,7 +16,7 @@ I am now a Data Enthusiast with good knowledge of Python, SQL, Excel and Tableau
 
 - 🤝 I’m open to Collaboration on `Data Analysis Projects` related to `Chess or Finance`.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
-- 💬 Ask me about [`Chess`](https://lichess.org/@/YourKingIsInDanger), `Marvel Universe` and `Data Analysis`.
+- 💬 Ask me about [`Chess`](https://lichess.org/@/YourKingIsInDanger), `Data Analysis` and `Marvel Universe`.
 - ⚡️ Fun fact: I have great observing skills, not like sherlock holmes, but `"You see, and I observe"`.
 
 ---
