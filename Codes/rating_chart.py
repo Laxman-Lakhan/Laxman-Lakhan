@@ -83,9 +83,9 @@ def main():
 if __name__ == "__main__":
     plot, rl, pl, date = main()
     print (plot, '\n')
-    print('Current Rating: {}'.format(rl[-1]), '\n')
+    print('Current Rating: {}'.format(rl[-1]))
     print('Highest Rating: {}'.format(max(rl)))
-    print('Performance   : {}'.format(pl[-1]))
-    print('Average Rating: {}'.format(round(np.mean(rl))))
+    print('Performance   : {}'.format(int(pl[-1])))
+    print('Average Rating: {}'.format(round(np.mean(rl))), '\n')
     print('Last Game Played On:',date)
     
