@@ -61,7 +61,7 @@ def data_formation(main_dict):
     Chess_df.loc[Chess_df['Winner'].isna(), 'Result'] = 0.5
     Chess_df.drop(['Winner', 'My Color'], axis = 1, inplace = True)
     
-    k = 10
+    k = 100
     Chess_df['Ra'] = Chess_df['Opponent Rating'].rolling(k).mean()
     Chess_df['p'] = round(Chess_df['Result'].rolling(k).sum()/k, 2)
     Chess_df = Chess_df.merge(dP, on='p')
@@ -77,14 +77,16 @@ def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df['New Rating'])[::-1][0:100][::-1]
     performance_list = list(Chess_df['Performance'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
+    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, performance_list,
+                list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
 
 
 if __name__ == "__main__":
-    plot, rl, date = main()
+    plot, rl, pl, date = main()
     print (plot, '\n')
-    print('Highest Rating: {}'.format(max(rl)))
-    print('Average Rating: {}'.format(round(np.mean(rl))))
     print('Current Rating: {}'.format(rl[-1]), '\n')
+    print('Highest Rating: {}'.format(max(rl)))
+    print('Performance   : {}'.format(pl[-1]))
+    print('Average Rating: {}'.format(round(np.mean(rl))))
     print('Last Game Played On:',date)
     
