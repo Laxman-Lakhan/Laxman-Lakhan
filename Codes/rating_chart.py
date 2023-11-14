@@ -68,7 +68,7 @@ def data_formation(main_dict):
     Chess_df['Performance'] = round(Chess_df['Ra'] + Chess_df['dp'], 0)
     Chess_df.sort_values('index', inplace = True)
     Chess_df.reset_index(inplace = True)
-    Chess_df.drop(columns = ['level_0', 'index', 'Ra', 'dp', 'p', 'Result', 'My Rating', 
+    Chess_df.drop(columns = ['level_0', 'index', 'Ra', 'dp', 'p', 'My Rating', 
                        'Rating Fluctuation', 'Opponent Rating'], inplace = True)
     return Chess_df
     
@@ -77,15 +77,28 @@ def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df['New Rating'])[::-1][0:100][::-1]
     performance_list = list(Chess_df['Performance'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, performance_list, list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
+    result_list = Chess_df['Result'][::-1][0:100][::-1]
+    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, performance_list, \
+        result_list, list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
 
 
 if __name__ == "__main__":
-    plot, rl, pl, date = main()
-    print (plot, '\n')
-    print('Current Rating: {}'.format(rl[-1]))
-    print('Highest Rating: {}'.format(max(rl)))
-    print('Performance   : {}'.format(int(pl[-1])))
-    print('Average Rating: {}'.format(round(np.mean(rl))), '\n')
+    plot, rl, pl, res_l, date = main()
+    W = res_l.value_counts()[1]
+    D = res_l.value_counts()[0.5]
+    L = res_l.value_counts()[0]
+
+    print('Wins', 'Draws', 'Losses', 'Performance Rating', sep = ' '*8)
+    print((' '+'{}'+' ').format(W), 
+          (' '+'{}'+' '*2).format(D), 
+          (' '*3+'{}'+' '*2).format(L), 
+          (' '*7+'{}'+' '*7).format(int(pl[-1])), sep = ' '*8, end = '\n\n')
+
+    print('Current Rating', 'Highest Rating', 'Average Rating', sep = ' '*8, end = '\n')
+    print((' '*5+'{}'+' '*5).format(rl[-1]), 
+          (' '*5+'{}'+' '*5).format(max(rl)), 
+          (' '*5+'{}'+' '*5).format(round(np.mean(rl))), 
+          sep = ' '*8, end = '\n\n')
+
     print('Last Game Played On:',date)
     
