@@ -88,6 +88,8 @@ if __name__ == "__main__":
     D = res_l.value_counts()[0.5]
     L = res_l.value_counts()[0]
 
+    print (plot, '\n')
+
     print('Wins', 'Draws', 'Losses', 'Performance Rating', sep = ' '*8)
     print((' '+'{}'+' ').format(W), 
           (' '+'{}'+' '*2).format(D), 
