@@ -77,8 +77,7 @@ def main():
     Chess_df = data_formation(dict_formation(data_extractor()))
     ratings_list = list(Chess_df['New Rating'])[::-1][0:100][::-1]
     performance_list = list(Chess_df['Performance'])[::-1][0:100][::-1]
-    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, performance_list,
-                list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
+    return (ac.plot(ratings_list, {'height': 15, 'format':'{:4.0f}'})), ratings_list, performance_list, list(Chess_df['Played'])[::-1][0].strftime('%a, %d-%b-%Y %I:%M %p %Z')
 
 
 if __name__ == "__main__":
