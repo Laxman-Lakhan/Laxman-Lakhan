@@ -70,10 +70,10 @@ I am currently aiming to reach **1800 Blitz ELO** *(Average)* on **Lichess**. He
 1708 ┤                                                                    ╰╯ 
 
 Wins        Draws        Losses        Performance Rating
-  48          4             48                 1728       
+           48          4             48                 1728       
 
 Current Rating        Highest Rating        Average Rating
-      1734                  1769                  1734     
+               1734                  1769                  1734     
 
 Last Game Played On: Sun, 19-Nov-2023 02:29 PM IST
   ```
