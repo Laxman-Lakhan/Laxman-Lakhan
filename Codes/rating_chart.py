@@ -98,7 +98,7 @@ if __name__ == "__main__":
           (' '*7+'{}'+' '*7).format(int(pl[-1])), sep = ' '*8, end = '\n\n')
 
     print('Current Rating', 'Highest Rating', 'Average Rating', sep = ' '*8, end = '\n')
-    pritn(' ')
+    print(' ')
     print((' '*5+'{}'+' '*5).format(rl[-1]), 
           (' '*5+'{}'+' '*5).format(max(rl)), 
           (' '*5+'{}'+' '*5).format(round(np.mean(rl))), 
