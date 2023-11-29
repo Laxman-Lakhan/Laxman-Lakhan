@@ -90,14 +90,12 @@ if __name__ == "__main__":
 
     print (plot, '\n')
 
-    print('Wins', 'Draws', 'Losses', 'Performance Rating', sep = ' '*8)
+    print('Wins', 'Draws', 'Losses', 'Performance Rating', 'Current Rating', 'Highest Rating', 'Average Rating', sep = ' '*8)
     print((' '*2+' '+'{}'+' ').format(W), 
           (' '+'{}'+' '*2).format(D), 
           (' '*3+'{}'+' '*2).format(L), 
-          (' '*7+'{}'+' '*7).format(int(pl[-1])), sep = ' '*8, end = '\n\n')
-
-    print('Current Rating', 'Highest Rating', 'Average Rating', sep = ' '*8, end = '\n')
-    print((' '*2+' '*5+'{}'+' '*5).format(rl[-1]), 
+          (' '*7+'{}'+' '*7).format(int(pl[-1])),
+          (' '*5+'{}'+' '*5).format(rl[-1]), 
           (' '*5+'{}'+' '*5).format(max(rl)), 
           (' '*5+'{}'+' '*5).format(round(np.mean(rl))), 
           sep = ' '*8, end = '\n\n')
