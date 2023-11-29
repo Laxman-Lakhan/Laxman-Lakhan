@@ -90,15 +90,25 @@ if __name__ == "__main__":
 
     print (plot, '\n')
 
-    print('Wins', 'Draws', 'Losses', 'Performance Rating', 'Current Rating', 'Highest Rating', 'Average Rating', sep = ' '*8)
-    print((' '*2+' '+'{}'+' ').format(W), 
-          (' '+'{}'+' '*2).format(D), 
-          (' '*3+'{}'+' '*2).format(L), 
-          (' '*7+'{}'+' '*7).format(int(pl[-1])),
-          (' '*5+'{}'+' '*5).format(rl[-1]), 
-          (' '*5+'{}'+' '*5).format(max(rl)), 
-          (' '*5+'{}'+' '*5).format(round(np.mean(rl))), 
-          sep = ' '*8, end = '\n\n')
+    print('Wins', 'Draws', 'Losses', 'Performance Rating', 'Current Rating', 'Highest Rating', 'Average Rating', sep = ' '*6)
+    if len(str(D)) == 1:
+        print((' '*2+' '+'{}'+' ').format(W), 
+              (' '*2+'{}'+' '*2).format(D), 
+              (' '*2+'{}'+' '*2).format(L), 
+              (' '*7+'{}'+' '*7).format(int(pl[-1])),
+              (' '*5+'{}'+' '*5).format(rl[-1]), 
+              (' '*5+'{}'+' '*5).format(max(rl)), 
+              (' '*5+'{}'+' '*5).format(round(np.mean(rl))), 
+              sep = ' '*6, end = '\n\n')
+    else:
+        print((' '*2+' '+'{}'+' ').format(W), 
+              (' '*2+'{}'+' '*2).format(D), 
+              (' '*1+'{}'+' '*2).format(L), 
+              (' '*7+'{}'+' '*7).format(int(pl[-1])),
+              (' '*5+'{}'+' '*5).format(rl[-1]), 
+              (' '*5+'{}'+' '*5).format(max(rl)), 
+              (' '*5+'{}'+' '*5).format(round(np.mean(rl))), 
+              sep = ' '*6, end = '\n\n')
 
     print('Last Game Played On:',date)
     
