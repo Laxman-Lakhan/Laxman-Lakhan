@@ -15,7 +15,7 @@ def data_extractor():
     session = berserk.TokenSession(token)
     client = berserk.Client(session=session)
     extract = client.games.export_by_player(username, as_pgn=False, since=None, until=None, 
-                                          max=199, vs=None, rated=True, perf_type='blitz', color=None, 
+                                          max=199, vs=None, rated=True, perf_type='rapid', color=None, 
                                           analysed=None, moves=False, tags=False, evals=False, opening=False)
     data = list(extract)
     return data
