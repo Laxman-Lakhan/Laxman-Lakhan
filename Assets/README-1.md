@@ -47,8 +47,8 @@ I am now a Data Enthusiast with good knowledge of Python, SQL, Excel and Tableau
   
 ### My Chess Rating ♟
   
-I am currently aiming to reach **2200 Rapid ELO** *(Average)* on **Lichess**. Here is an ascii tracker of my last **100 Lichess Blitz Games**.
+I am currently aiming to reach **2200 Rapid ELO** *(Average)* on **Lichess**. Here is an ascii tracker of my last **100 Lichess Rapid Games**.
 
   ```
-  ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 𝙱𝚕𝚒𝚝𝚣 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝 𝚘𝚟𝚎𝚛 𝙻𝚊𝚜𝚝 𝟷00 𝙶𝚊𝚖𝚎𝚜.
+  ♟︎ 𝙻𝚒𝚌𝚑𝚎𝚜𝚜 Rapid 𝚁𝚊𝚝𝚒𝚗𝚐𝚜 𝙲𝚑𝚊𝚛𝚝 𝚘𝚟𝚎𝚛 𝙻𝚊𝚜𝚝 𝟷00 𝙶𝚊𝚖𝚎𝚜.
   
