@@ -8,7 +8,7 @@ pyjwt==2.8.0  # Updated
 requests==2.31.0  # Updated
 urllib3==2.0.4  # Updated
 wrapt==1.15.0  # Updated
-berserk==0.11.1  # Updated
+berserk==0.13.2  # Updated
 pandas==1.5.3  # Updated
 numpy==1.23.5  # Updated
 pytz==2023.3
