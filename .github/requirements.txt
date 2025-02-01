@@ -1,6 +1,6 @@
 asciichartpy==1.5.25
 certifi==2023.7.22
-chardet==4.0.0  # Updated
+chardet==4.0.0  
 deprecated==1.2.14  # Updated
 idna==3.4  # Updated
 pygithub==1.59  # Updated
