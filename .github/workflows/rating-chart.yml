@@ -28,7 +28,7 @@
        - run: |
            TOKEN=${{ secrets.TOKEN_LICHESS }} python Codes/rating_chart.py > chart.txt
            CHART=$(cat chart.txt)
-           echo "::set-output name=chart::$CHART"
+           echo "CHART=$CHART" >> $GITHUB_ENV
        - run: cat Assets/README-1.md > README.md
        - run: cat chart.txt >> README.md
        - run: cat Assets/README-2.md >> README.md
@@ -36,7 +36,7 @@
        - run: |
            python Codes/generate_random_workflow.py > rating-yaml.txt
            YAML=$(cat rating-yaml.txt)
-           echo "::set-output name=yaml::$YAML"
+           echo "YAML=$YAML" >> $GITHUB_ENV
        - run: cat rating-yaml.txt > .github/workflows/rating-chart.yml
        - id: changed
          run: git diff --exit-code
