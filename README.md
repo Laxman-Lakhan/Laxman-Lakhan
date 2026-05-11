@@ -1,5 +1,5 @@
 ### About Me 🤓
-<img align="right" alt="Coding" width="350" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Chess_Vector.jpg">   
+<img align="right" alt="Coding" width="350" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/main/Assets/Chess_Vector.jpg">   
 
 I am a **B.Tech** _**(Chemical Engineering)**_ **Graduate(2022) from IIT (BHU), Varanasi**. I am a problem solver, and figuring out the better way of doing things keeps me going. I am fascinated by the way one can make data-driven decisions using Data Science. 
 
@@ -11,7 +11,7 @@ I am now a Data Enthusiast with good knowledge of Python, SQL, Excel and Tableau
 ---
 
 ### A Few Quick Facts ⚡️
-<img align="right" alt="Coding" width="340" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/master/Assets/Data_Vector.jpg">   
+<img align="right" alt="Coding" width="340" src="https://github.com/Laxman-Lakhan/Laxman-Lakhan/blob/main/Assets/Data_Vector.jpg">   
 
 - 🤝 I’m open to Collaboration on `Data Analysis Projects` related to `Chess or Finance`.
 - 📖 Currently improving my `Data Visualisation (Tableau)` skills and learning about `Machine Learning`.
