@@ -38,9 +38,8 @@ I am now a Data Enthusiast with good knowledge of Python, SQL, Excel and Tableau
 
 <a href="mailto:laxmansingh.lakhan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/laxman-lakhan/)  &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/s.laxmanlakhan/)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/laxman.lakhan/)  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/laxman__lakhan)  &nbsp;
+
 
  ---
   
