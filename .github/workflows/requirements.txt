@@ -1,0 +1,14 @@
+asciichartpy==1.5.25
+certifi==2023.7.22
+chardet==4.0.0  
+deprecated==1.2.14 
+idna==3.4  
+pygithub==1.59
+pyjwt==2.8.0  # Updated
+requests==2.31.0  # Updated
+urllib3==2.0.4  # Updated
+wrapt==1.15.0  # Updated
+berserk==0.13.2  # Updated
+pandas==1.5.3  # Updated
+numpy==1.23.5  # Updated
+pytz==2023.3
